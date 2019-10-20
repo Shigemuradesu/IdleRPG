@@ -2873,6 +2873,8 @@ msgid ""
 "You have completed your adventure and received **${gold}** as well as a new "
 "item: **{item}**. Experience gained: **{xp}**."
 msgstr ""
+"Вы завершили свое приключение и получаете **${gold}** а также новый"
+"предмет: **{item}**. Полученный опыт: **{xp}**."
 
 #: cogs/adventure/__init__.py:497
 #, python-brace-format
